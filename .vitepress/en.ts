@@ -15,7 +15,7 @@ export const en = defineConfig({
     },
     editLink: {
       text: 'Edit this page on Github',
-      pattern: 'https://github.com/Project-Aloha/project-aloha.github.io/edit/main/:path'
+      pattern: 'https://github.com/Project-Aloha/DocumentWebsite/edit/main/:path'
     },
     footer: {
       copyright: `Site CC BY-NC-SA 4.0 | CopyRight © 2022-${new Date().getFullYear()} Project-Aloha`

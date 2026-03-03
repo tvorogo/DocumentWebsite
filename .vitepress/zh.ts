@@ -31,7 +31,7 @@ export const zh = defineConfig({
     },
     editLink: {
       text: '在 Github 上编辑此页',
-      pattern: 'https://github.com/Project-Aloha/project-aloha.github.io/edit/main/:path'
+      pattern: 'https://github.com/Project-Aloha/DocumentWebsite/edit/main/:path'
     },
     footer: {
       copyright: `网站 CC BY-NC-SA 4.0 | 版权所有 © 2022-${new Date().getFullYear()} Project-Aloha`
