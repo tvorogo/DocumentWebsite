@@ -29,7 +29,7 @@ Exit diskpart:
 ```
 exit
 ```
-# Enable Test Signing
+## Enable Test Signing
 ```
 bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set "{default}" testsigning on
 ```
