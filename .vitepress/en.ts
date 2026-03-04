@@ -28,10 +28,10 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
     {
       text: 'Introduction',
       items: [
-        { text: 'Project-Aloha', link: '/Introduction/organization'},
-        { text: 'mu_aloha_platforms', link: '/Introduction/mu_aloha_platforms'},
-        { text: 'CrDK', link: '/Introduction/CrDK'},
-        { text: 'Porting Status', link: '/Introduction/PortingStatus'}
+        { text: 'Project-Aloha', link: '/Introduction/organization.html'},
+        { text: 'mu_aloha_platforms', link: '/Introduction/mu_aloha_platforms.html'},
+        { text: 'CrDK', link: '/Introduction/CrDK.html'},
+        { text: 'Porting Status', link: '/Introduction/PortingStatus.html'}
       ]
     },
     {
