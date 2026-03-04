@@ -31,25 +31,26 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
         { text: 'Project-Aloha', link: '/Introduction/organization'},
         { text: 'mu_aloha_platforms', link: '/Introduction/mu_aloha_platforms'},
         { text: 'CrDK', link: '/Introduction/CrDK'},
-        { text: 'UEFI Porting Status', link: '/PortingStatus/PortingStatus'}
+        { text: 'Porting Status', link: '/Introduction/PortingStatus'}
       ]
     },
     {
-      text: 'Installation',
+      text: 'Instalattion Guides',
       items: [
         { text: 'Guides Collection', link: '/InstallationGuides/GuidesCollection'},
-        { text: 'Simple Installation Guide', link: '/InstallationGuides/WindowsInstallation' },
-        { text: 'Install Drivers', link: '/InstallationGuides/InstallDrivers'},
         { text: 'Enter UMS Mode', link: '/InstallationGuides/EnterUMS'},
-        { text: 'Hide Partition', link: '/InstallationGuides/SetGPTPartitionSystemAttr.md'},
-        { text: '24H2 GPT Errata', link: '/InstallationGuides/GPTErrata.md'},
+        { text: 'Windows Installation', link: '/InstallationGuides/WindowsInstallation' },
+        { text: 'Install Drivers', link: '/InstallationGuides/InstallDrivers'},
+        { text: 'Hide Partition', link: '/InstallationGuides/SetGPTPartitionSystemAttr'},
+        { text: '24H2 GPT Errata', link: '/InstallationGuides/GPTErrata'},
+        { text: 'Disable Secure Boot', link: '/InstallationGuides/SecureBoot'},
       ]
     },
     {
       text: 'Dual Boot',
       items: [
         { text: 'Introduction', link: '/DualBoot/Introduction'},
-        { text: 'Apply DualBoot', link:'/DualBoot/PatchKernel.md'},
+        { text: 'Apply DualBoot', link:'/DualBoot/PatchKernel'},
         { text: 'Config', link: '/DualBoot/Config'},
         { text: 'Shell Code', link: '/DualBoot/ShellCode'},
       ]
@@ -66,9 +67,9 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
     {
       text: 'Debug Windows',
       items: [
-        { text: 'Setup KDNET', link: '/WindowsDebug/SetupKDNET.md'},
-        { text: 'Setup KDCOM', link: '/WindowsDebug/SetupKDCOM.md'},
-        { text: 'RDP via KdNet', link: '/WindowsDebug/KdNetRDP.md'},
+        { text: 'Setup KDNET', link: '/WindowsDebug/SetupKDNET'},
+        { text: 'Setup KDCOM', link: '/WindowsDebug/SetupKDCOM'},
+        { text: 'RDP via KdNet', link: '/WindowsDebug/KdNetRDP'},
       ]
     },
     {

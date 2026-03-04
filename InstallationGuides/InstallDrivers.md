@@ -11,24 +11,29 @@
 - Download [DriverUpdater](https://github.com/WOA-Project/DriverUpdater/releases) by [WOA-Project](https://github.com/WOA-Project/)
   > Generally speaking please download the x64/x86 one, if **Your Computer** has more than one x86 CPU.
 
-- Download Driver Pack
-  > Just click the Download Button in the page.
-  <img src="/InstallationGuides/Resources/InstallDrivers/HowToDownload1.png" width=40%/>
-  - For Sm8150 Devices, the repo is [msmnile-Drivers](https://github.com/Project-Aloha/msmnile-Drivers)
-  - For Sm7125 Devices, the repo is [Atoll-Drivers](https://github.com/Project-Aloha/Atoll-Drivers)
-  - For others, please refer to [QC Silicons' Codename Reference Table](../ReferenceTables/QCSiliconCodenameReferenceTable.md)  
-    and download the one named xxx-Drivers.
-
 - Download Device Specific Driver Pack
-  > Just click the Download Zip Button to Download.
+  > Just click on archive with name like drivers.
   <img src="/InstallationGuides/Resources/InstallDrivers/HowToDownload2.png" width=40%/>
-  - For Xiaomi Pad 5, the repo is [Nabu](https://github.com/Project-Aloha/Nabu)
-  - For Oneplus 7TP/7T, the repo is [Hotdog](https://github.com/Project-Aloha/Hotdog)
+  
+| Vendor | Device     | CodeName | Drivers                                                                                   |
+|--------|------------|----------|-------------------------------------------------------------------------------------------|
+| XiaoMi |Mi 9        |cepheus   | [Driver Pack](https://github.com/qaz6750/XiaoMi9-Drivers/releases)                        |
+| XiaoMi |K20 Pro     |raphael   | [Driver Pack](https://github.com/new-WoA-Raphael/woa-raphael/releases/tag/Drivers)        |
+| XiaoMi |Pad 5       |nabu      | [Driver Pack](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/releases/tag/Drivers)|
+| XiaoMi |POCO X3 PRO |vayu      | [Driver Pack](https://github.com/WaLoVayu/POCOX3Pro-Windows-Releases/releases/tag/2502.28)|
+| XiaoMi |Note 9S     | miatoll  | [Driver Pack](https://github.com/woa-miatoll/Miatoll-Releases/releases/latest)            |
+| LG     |G8          |alphaplus | [Driver Pack](https://github.com/n00b69/woa-alphaplus/releases/tag/Drivers)               |
+| LG     |G8s         |betalm    | [Driver Pack](https://github.com/n00b69/woa-betalm/releases/tag/Drivers)                  |
+| LG     |G8x         |mh2lm	 | [Driver Pack](https://github.com/n00b69/woa-mh2lm/releases/tag/Drivers)                   |
+| LG     |V50         |flashlmdd | [Driver Pack](https://github.com/n00b69/woa-flashlmdd/releases/tag/Drivers)               |
+| LG     |V50s        |mh2lm5g   | [Driver Pack](https://github.com/n00b69/woa-mh2lm5g/releases/tag/Drivers)                 |
+| OnePlus|7 Pro 4G    |guacamole | [Driver Pack](https://github.com/n00b69/woa-op7/releases/tag/Drivers)                     |
+| OnePlus|7T Pro 4G   |hotdog    | [Driver Pack](https://github.com/n00b69/woa-op7/releases/tag/Drivers)                     |
+| Samsung|Galaxy Fold |winner    | [Driver Pack](https://github.com/n00b69/woa-winner/releases/tag/Drivers)                  |
+------------------------------------------------------------------------------------------------------------------------------
+
   - For others, please refer to [Devices' Codename Reference Table](../ReferenceTables/DeviceCodenameReferenceTable.md)  
     and download the one named xxx.
-
-- Let Your Device Enter [usb mass storage mode](EnterUMS.md).
-  > Ideally situation is that you have applied windows to your disk just now and your phone is still in ums mode.
 
 
 ## Installation
