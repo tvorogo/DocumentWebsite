@@ -22,13 +22,10 @@
 - Download Device Specific Driver Pack
   > Just click the Download Zip Button to Download.
   <img src="/InstallationGuides/Resources/InstallDrivers/HowToDownload2.png" width=40%/>
-  - For Xiaomi Pad 5, the repo is [Nabu](https://github.com/remtrik-stuff/MiPad5-Windows-Releases/releases/)
-  - For Oneplus 7TP/7T, the repo is [Hotdog](https://github.com/n00b69/woa-op7/releases/tag/Drivers)
+  - For Xiaomi Pad 5, the driver is [Nabu](https://github.com/remtrik-stuff/MiPad5-Windows-Releases/releases/)
+  - For Oneplus 7TP/7T, the driver is [Hotdog](https://github.com/n00b69/woa-op7/releases/tag/Drivers)
   - For others, please refer to [Devices' Codename Reference Table](../ReferenceTables/DeviceCodenameReferenceTable.md)  
     and download the one named xxx.
-
-- Let Your Device Enter [usb mass storage mode](EnterUMS.md).
-  > Ideally situation is that you have applied windows to your disk just now and your phone is still in ums mode.
 
 
 ## Installation

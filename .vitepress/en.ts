@@ -43,6 +43,7 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
         { text: 'Install Drivers', link: '/InstallationGuides/InstallDrivers'},
         { text: 'Hide Partition', link: '/InstallationGuides/SetGPTPartitionSystemAttr.md'},
         { text: '24H2 GPT Errata', link: '/InstallationGuides/GPTErrata.md'},
+        { text: 'Disable Secure Boot', link: '/InstallationGuides/SecureBoot.md'},
       ]
     },
     {
