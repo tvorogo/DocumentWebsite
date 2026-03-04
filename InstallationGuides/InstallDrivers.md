@@ -22,8 +22,25 @@
 - Download Device Specific Driver Pack
   > Just click the Download Zip Button to Download.
   <img src="/InstallationGuides/Resources/InstallDrivers/HowToDownload2.png" width=40%/>
-  - For Xiaomi Pad 5, the driver is [Nabu](https://github.com/remtrik-stuff/MiPad5-Windows-Releases/releases/)
-  - For Oneplus 7TP/7T, the driver is [Hotdog](https://github.com/n00b69/woa-op7/releases/tag/Drivers)
+  
+| Vendor | Device     | CodeName | Status                                                                                    |
+|--------|------------|----------|-------------------------------------------------------------------------------------------|
+| XiaoMi |Mi 9        |cepheus   | [Driver Pack](https://github.com/qaz6750/XiaoMi9-Drivers/releases)                        |
+| XiaoMi |K20 Pro     |raphael   | [Driver Pack](https://github.com/new-WoA-Raphael/woa-raphael/releases/tag/Drivers)        |
+| XiaoMi |Pad 5       |nabu      | [Driver Pack](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/releases/tag/Drivers)|
+| XiaoMi |POCO X3 PRO |vayu      | [Driver Pack](https://github.com/WaLoVayu/POCOX3Pro-Windows-Releases/releases/tag/2502.28)|
+| XiaoMi |Mix 3       |perseus   | [Driver Pack](https://github.com/n00b69/woa-perseus/releases/tag/Drivers)                 |
+| XiaoMi |Note 9S     | miatoll  | [Driver Pack](https://github.com/woa-miatoll/Miatoll-Releases/releases/latest)            |
+| LG     |G8          |alphaplus | [Driver Pack](https://github.com/n00b69/woa-alphaplus/releases/tag/Drivers)               |
+| LG     |G8s         |betalm    | [Driver Pack](https://github.com/n00b69/woa-betalm/releases/tag/Drivers)                  |
+| LG     |G8x         |mh2lm	 | [Driver Pack](https://github.com/n00b69/woa-mh2lm/releases/tag/Drivers)                   |
+| LG     |V50         |flashlmdd | [Driver Pack](https://github.com/n00b69/woa-flashlmdd/releases/tag/Drivers)               |
+| LG     |V50s        |mh2lm5g   | [Driver Pack](https://github.com/n00b69/woa-mh2lm5g/releases/tag/Drivers)                 |
+| OnePlus|7 Pro 4G    |guacamole | [Driver Pack](https://github.com/n00b69/woa-op7/releases/tag/Drivers)                     |
+| OnePlus|7T Pro 4G   |hotdog    | [Driver Pack](https://github.com/n00b69/woa-op7/releases/tag/Drivers)                     |
+| Samsung|Galaxy Fold |winner    | [Driver Pack](https://github.com/n00b69/woa-winner/releases/tag/Drivers)                  |
+------------------------------------------------------------------------------------------------------------------------------
+
   - For others, please refer to [Devices' Codename Reference Table](../ReferenceTables/DeviceCodenameReferenceTable.md)  
     and download the one named xxx.
 

@@ -33,9 +33,20 @@ exit
 ```
 bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set "{default}" testsigning on
 ```
-Remove SiPolicy (Critical)
 
-If SecureBoot is being disabled on an already installed system, delete:
+# Disabling recovery
+```
+bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set "{default}" recoveryenabled no
+```
+
+# Disabling integrity checks
+```
+bcdedit /store Y:\EFI\Microsoft\BOOT\BCD /set "{default}" nointegritychecks on
+```
+
+# Remove SiPolicy (Critical)
+
+> If SecureBoot is being disabled on an already installed system, delete:
 ```
 del Y:\EFI\Microsoft\Boot\SiPolicy.p7b
 ```
