@@ -4,4 +4,3 @@ dist
 .npmrc
 .idea
 .vitepress/cache
-package-lock.json
