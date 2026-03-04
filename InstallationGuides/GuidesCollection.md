@@ -1,7 +1,7 @@
 # Guides Collections
 > In this page you can find installation guides for devices.
 
-## SM8150
+:::details Snapdragon 855/860 - SM8150 
 | Vendor  | Device Name | CodeName  | Guide Link                                                                |
 |---------|-------------|-----------|---------------------------------------------------------------------------|
 | Xiaomi  | K20 Pro     | Raphael   | [Github](https://github.com/new-WoA-Raphael/woa-raphael)                  |
@@ -17,18 +17,18 @@
 | OnePlus | 7T Pro 4G   | hotdog    | [Github](https://github.com/n00b69/woa-op7)                               |
 | Samsung | Galaxy Fold | winner    | [Github](https://github.com/n00b69/woa-winner)                            |
 -----------------------------------------------------------------------------------------------------------------
+:::
 
-## SM6250/SM7125/SC7180
+:::details Snapdragon 720G/7c/7c Gen 2 - SM6250/SM7125/SC7180
 | Vendor | Device | CodeName | Guide Link                                                                                |
 |--------|--------|----------|---------------------------------------------------------------------------------------|
 | XiaoMi |Note 9S | miatoll  |[Device status](https://github.com/woa-miatoll/Miatoll-Guide/)                         |
 ----------------------------------------------------------------------------------------------------------------------
+:::
 
-
-## SM7150
+:::details Snapdragon 730/732/732G - SM7150
 | Vendor |Device     |CodeName| Guide Link                                                                             |
 |--------|-----------|--------|-------------------------------------------------------------------------------------|
 | XiaoMi |POCO X3 NFC| surya  |[Device status](https://github.com/woa-surya/POCOX3NFC-Guides/)                      |
 ---------------------------------------------------------------------------------------------------------------------
-
-
+:::

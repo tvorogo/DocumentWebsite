@@ -3,7 +3,7 @@ There are 2 main ways to enter UMS mode:
 - UEFI Application
 - Linux Usb Gadget
 
-## Enter UMS in UEFI
+::::details Enter UMS in UEFI
 Unpack [bootpkg.zip](/InstallationGuides/EnterUMS/bootpkg.zip) into a fat partition like modem_a/modem_b. Alternatively you can format a partition into fat and put files in it after backup.
 For example, put files in modem_b if your device is currently in A slot and B slot is free. Assume `bootpkg.zip` was putting at `/sdcard/`
 
@@ -28,8 +28,9 @@ Most Virtual Terminal Application supports convert the file(s) drag in the windo
 :::
 
 After booting uefi, select `Mass Storage Mode` in the Windows boot manager.
+::::
 
-## Enter UMS in Android or Recovery
+::::details Enter UMS in Android or Recovery
 :::tip
 You may not want to edit userdata partition when it was mounted in Android or Rec.
 :::
@@ -112,3 +113,4 @@ Please backup your boot/vendorboot before flash. Flash them back after using ums
 You can also try boot mainline linux in uefi or via ABL and enable ums gadget mode in configfs. It's advanced so i'll only introduce here.
 
 # End
+::::

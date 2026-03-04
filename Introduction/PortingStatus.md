@@ -1,12 +1,12 @@
 ## UEFI porting status 
-  - mu_aloha_platforms [README](https://github.com/Project-Aloha/mu_aloha_platforms#target-list)
+  - [mu_aloha_platforms](https://github.com/Project-Aloha/mu_aloha_platforms#target-list)
 
 # Device porting status
 > In this page you can find porting status for devices.
 -------------------------------------------------------
 
 
-## Snapdragon 855/860 - SM8150 
+:::details Snapdragon 855/860 - SM8150 
 | Vendor  | Device      | Codename  | Status                                                                                                    |
 |---------|-------------|-----------|-----------------------------------------------------------------------------------------------------------|
 | Xiaomi  | Mi 9        | cepheus   | [Device status](https://github.com/qaz6750/XiaoMi9-Drivers/blob/main/Status.md)                           |
@@ -22,17 +22,18 @@
 | OnePlus | 7T Pro 4G   | hotdog    | [Device status](https://github.com/n00b69/woa-op7/blob/main/guide/status.md)                              |
 | Samsung | Galaxy Fold | winner    | [Device status](https://github.com/n00b69/woa-winner/blob/main/guide/status.md)                           |
 -------------------------------------------------------------------------------------------------------------------------------------------------
+:::
 
-
-## Snapdragon 720G/7c/7c Gen 2 - SM6250/SM7125/SC7180
+:::details Snapdragon 720G/7c/7c Gen 2 - SM6250/SM7125/SC7180
 | Vendor  | Device      | Codename  | Status                                                                                                    |
 |---------|-------------|-----------|-----------------------------------------------------------------------------------------------------------|
 | Xiaomi  | Note 9S     | miatoll   | [Device status](https://github.com/woa-miatoll/Miatoll-Guide/blob/main/guide/status.md)|
 -------------------------------------------------------------------------------------------------------------------------------------------------
+:::
 
-
-## Snapdragon 730/732/732G - SM7150
+:::details Snapdragon 730/732/732G - SM7150
 | Vendor  | Device      | Codename  | Status                                                                                                    |
 |---------|-------------|-----------|-----------------------------------------------------------------------------------------------------------|
 | Xiaomi  | POCO X3 NFC | surya     | [Device status](https://github.com/woa-surya/POCOX3NFC-Guides/blob/main/Status-en.md)                     |
 -------------------------------------------------------------------------------------------------------------------------------------------------
+:::

@@ -5,7 +5,7 @@ This process can permanently brick your device if done incorrectly.
 Read every step carefully and DO NOT modify partitions unless explicitly instructed.
 :::
 
-:::warning
+:::danger
 DO NOT ERASE, CREATE OR MODIFY ANY PARTITION IN DISKPART.
 ONLY ASSIGN A DRIVE LETTER TO ESP(DEVICE-NAME).
 :::

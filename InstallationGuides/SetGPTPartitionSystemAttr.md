@@ -4,7 +4,7 @@
 > this guide will tell you how to change gpt partition's
 > attribute to mark a partition as **system** partition.  
 
-:::warning
+:::danger
 Please **carefully** read each step and comments.  
 **Wrong actions may damage your GPT table and brick your device**.
 :::
@@ -13,7 +13,7 @@ Please **carefully** read each step and comments.
 - A phone in Windows or Android/Linux
 - Diskpart in Windows, gdisk in Linux, termux+gdisk+root in android.
 
-## Steps in Windows
+::::details Steps in Windows
 - Open a terminal with administrator permission.
 - Type `diskpart` and enter .
 - List all disks
@@ -44,15 +44,16 @@ det par
 ```
 - Set *system bit* in partition gpt attribute.
   + system bit is the lowest bit.
-:::warning
+:::danger
 Please *ONLY* set the last bit to 1.
 :::
 ```powershell
 GPT ATTRIBUTES=0x1C00000000000001
 ```
 - Set system bit for all partitions in a lun can make the lun invisible in Windows device manager.
+::::
 
-## Steps in Android/Linux
+::::details Steps in Android/Linux
 - Install [Termux](https://github.com/termux/termux-app/releases)
 - General setup, and setup gptfdisk
 ```bash
@@ -105,3 +106,4 @@ a # Change partition attribute
 # 60 (read-only)
 ```
 - Set system bit for all partitions in a lun can make the lun invisible in Windows device manager.
+::::

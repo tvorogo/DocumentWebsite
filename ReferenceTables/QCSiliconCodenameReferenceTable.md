@@ -39,16 +39,17 @@
 | SD680               | SM6225                  | DIVAR             |               |
 | SD690               | SM6350                  | BITRA             |               |
 | SD695               | SM6375                  | STRAIT            |               |
-| SD6 Gen1            | SM6450                  | NETRANI           |               |
+| SD6 Gen1            | SM6450                  | NETRANI           | Parrot        |
 
 ### Snapdragon 7
 | Chip name           | Model Number            | Bsp Codename      | HLOS Codename |
 |---------------------|-------------------------|-------------------|---------------|
 | SD720               | SM6250/SM7125           | RENNELL           | Atoll         |    
-| SD730/730G/732G     | SM7150                  | MOOREA            |               |   
+| SD730/730G/732G     | SM7150                  | MOOREA            | Magpie        |   
 | SD765G              | SM7250                  | SAIPAN            |               |   
 | SD778G/782G         | SM7325                  | KODIAK            | Yupik         |
 | SD780G              | SM7350                  | CEDROS            |               |
+| SD7s Gen2           | SM7435                  | NETRANI           | Parrot        |
 | SD7 Gen1            | SM7450                  | FILLMORE          |               |
 | SD7+ Gen2           | SM7475                  | PALIMA            | Cape/Waipio   |
 
@@ -69,7 +70,7 @@
 | SD845               | SDM845                  | NAPALI            |               |
 | SD820-AU            | SM8996AU                | RADAGAST          |               |
 | SD835               | MSM8998                 | NAZGUL            | Cobalt        |
-| SD845               | SDM845                  | NAPALI            |               |
+| SD845               | SDM845                  | NAPALI            | Skunk         |
 | SD855               | SM8150                  | HANA              | Msmnile       |
 | SD865               | SM8250                  | KONA              | Kona          |
 | SD888               | SM8350                  | LAHAINA           | Lahaina       |
