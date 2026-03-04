@@ -1,5 +1,7 @@
-# Device porting status 
+# UEFI porting status 
   - mu_aloha_platforms [README](https://github.com/Project-Aloha/mu_aloha_platforms#target-list)
+# Device porting status
+> In this page you can find porting status for devices.
 # SM8150
 | Device | Device status |
 |-----------------|-------------|
