@@ -8,7 +8,10 @@ export default {
 }
 
 // https://vitepress.dev/reference/site-config
-export default withMermaid(
+export default {
+  base: '/DocumentWebsite/'
+}
+  withMermaid(
   defineConfig({
     title: "Project Aloha",
     lastUpdated: true,
