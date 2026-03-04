@@ -31,16 +31,16 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
         { text: 'Project-Aloha', link: '/Introduction/organization'},
         { text: 'mu_aloha_platforms', link: '/Introduction/mu_aloha_platforms'},
         { text: 'CrDK', link: '/Introduction/CrDK'},
-        { text: 'UEFI Porting Status', link: '/PortingStatus/PortingStatus'}
+        { text: 'Porting Status', link: '/Introduction/PortingStatus'}
       ]
     },
     {
-      text: 'Installation',
+      text: 'Guides',
       items: [
         { text: 'Guides Collection', link: '/InstallationGuides/GuidesCollection'},
-        { text: 'Simple Installation Guide', link: '/InstallationGuides/WindowsInstallation' },
-        { text: 'Install Drivers', link: '/InstallationGuides/InstallDrivers'},
         { text: 'Enter UMS Mode', link: '/InstallationGuides/EnterUMS'},
+        { text: 'Windows Installation', link: '/InstallationGuides/WindowsInstallation' },
+        { text: 'Install Drivers', link: '/InstallationGuides/InstallDrivers'},
         { text: 'Hide Partition', link: '/InstallationGuides/SetGPTPartitionSystemAttr.md'},
         { text: '24H2 GPT Errata', link: '/InstallationGuides/GPTErrata.md'},
       ]
