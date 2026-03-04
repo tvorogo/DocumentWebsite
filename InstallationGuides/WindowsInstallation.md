@@ -1,4 +1,4 @@
-## Simple Installation Guide
+# Windows Installation Guide
 
 
 :::warning
