@@ -19,14 +19,14 @@
 | Samsung | Galaxy Fold | winner    | [Github](https://github.com/n00b69/woa-winner)                            |
 -----------------------------------------------------------------------------------------------------------------
 
-# SM6250/SM7125/SC7180
+## SM6250/SM7125/SC7180
 | Vendor | Device | CodeName | Guide Link                                                                                |
 |--------|--------|----------|---------------------------------------------------------------------------------------|
 | XiaoMi |Note 9S | miatoll  |[Device status](https://github.com/woa-miatoll/Miatoll-Guide/)                         |
 ----------------------------------------------------------------------------------------------------------------------
 
 
-# SM7150
+## SM7150
 | Vendor |Device     |CodeName| Guide Link                                                                             |
 |--------|-----------|--------|-------------------------------------------------------------------------------------|
 | XiaoMi |POCO X3 NFC| surya  |[Device status](https://github.com/woa-surya/POCOX3NFC-Guides/)                      |

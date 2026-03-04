@@ -1,4 +1,4 @@
-# UEFI porting status 
+## UEFI porting status 
   - mu_aloha_platforms [README](https://github.com/Project-Aloha/mu_aloha_platforms#target-list)
 
 # Device porting status
@@ -6,7 +6,7 @@
 -------------------------------------------------------
 
 
-# SM8150  
+## SM8150  
 | Vendor | Device     | CodeName | Status                                                                                                    |
 |--------|------------|----------|-----------------------------------------------------------------------------------------------------------|
 | XiaoMi |Mi 9        |cepheus   | [Device status](https://github.com/qaz6750/XiaoMi9-Drivers/blob/main/Status.md)                           |
@@ -25,14 +25,14 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# SM6250/SM7125/SC7180
+## SM6250/SM7125/SC7180
 | Vendor | Device | CodeName | Status                                                                                |
 |--------|--------|----------|---------------------------------------------------------------------------------------|
 | XiaoMi |Note 9S | miatoll  |[Device status](https://github.com/woa-miatoll/Miatoll-Guide/blob/main/guide/status.md)|
 ----------------------------------------------------------------------------------------------------------------------
 
 
-# SM7150
+## SM7150
 | Vendor |Device     |CodeName|  Status                                                                             |
 |--------|-----------|--------|-------------------------------------------------------------------------------------|
 | XiaoMi |POCO X3 NFC|  surya |[Device status](https://github.com/woa-surya/POCOX3NFC-Guides/blob/main/Status-en.md)|

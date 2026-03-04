@@ -20,7 +20,7 @@
     and download the one named xxx-Drivers.
 
 - Download Device Specific Driver Pack
-  > Just click the Download Zip Button to Download.
+  > Just click on archive with name like drivers.
   <img src="/InstallationGuides/Resources/InstallDrivers/HowToDownload2.png" width=40%/>
   
 | Vendor | Device     | CodeName | Drivers                                                                                   |
