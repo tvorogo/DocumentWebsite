@@ -80,7 +80,7 @@
 | SD8 Elite Gen1      | SM8750                  | PAKALA            | Sun           |
 | SD8 Gen5            | SM8845                  | MOLOKAI           | Canoe         |
 | SD8 Elite Gen5      | SM8850                  | KAANAPALI         | Canoe         |
-
+| SD8 Gen6            | SM8975                  | HAWI              | 
 
 ## Gaming Platform
 | Chip name           | Model Number            | Bsp Codename      | HLOS Codename |
