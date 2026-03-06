@@ -63,13 +63,12 @@
 | SD810               | APQ8094/MPQ8092         | ISTARI            |               |
 | SD810               | MSM8994                 | ELESSAR           |               |
 | SD820               | MSM8996                 | ISTARI            |               |
-| SD821               | MSM8996 Pro             |                   |               |
-|                     | MSM8997                 | NAZGULQ           |               |
-| SD835               | MSM8998                 |                   |               |
+| SD821               | MSM8996 Pro             | THULIUM           | Msmthulium    |
+| SD823/828/830       | MSM8997                 | NAZGULQ           |               |
+| SD835               | MSM8998                 | NAZGUL            | Cobalt        |
 | SD840               | SDM840                  | NAPALIQ           |               |
 | SD845               | SDM845                  | NAPALI            |               |
 | SD820-AU            | SM8996AU                | RADAGAST          |               |
-| SD835               | MSM8998                 | NAZGUL            | Cobalt        |
 | SD845               | SDM845                  | NAPALI            | Skunk         |
 | SD855               | SM8150                  | HANA              | Msmnile       |
 | SD865               | SM8250                  | KONA              | Kona          |
