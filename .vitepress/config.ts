@@ -6,7 +6,6 @@ import { zh } from './zh'
 // https://vitepress.dev/reference/site-config
 export default withMermaid(
   defineConfig({
-    base: '/DocumentWebsite/',
     title: "Project Aloha",
     lastUpdated: true,
     head: [
