@@ -47,11 +47,11 @@ offlineupdater.cmd
 ```
 Run as administrator
 ```
-> if an error shows up, run OfflineUpdaterFix.cmd instead
+> If an error shows up, run OfflineUpdaterFix.cmd instead
 
 > If it asks you to enter a letter, enter the drive letter of WIN(DEVICE-NAME) (which should be F), then press enter
- ### 3. Wait for the Process to Complete
 
+### 3. Wait for the Process to Complete
 #### When everything is finished, you will see a confirmation message indicating that all drivers were successfully installed.
 
 ## Done!
