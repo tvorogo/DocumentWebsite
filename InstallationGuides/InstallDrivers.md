@@ -31,7 +31,7 @@
 
 
 
-# Installation
+## Installation
 ### 1. Download and Extract the Package
 
 - Download the provided archive and extract its contents into any convenient folder without cirrylic on your PC.
