@@ -34,7 +34,7 @@
 ## Installation
 ### 1. Download and Extract the Package
 
-- Download the provided archive and extract its contents into any convenient folder without cirrylic on your PC.
+- Download the provided archive and extract its contents into any convenient folder on your PC whose path does not contain Cyrillic characters.
 - Make sure the folder structure remains intact after extraction.
 
 ### 2. Run offlineupdater.cmd (Administrator Required)
